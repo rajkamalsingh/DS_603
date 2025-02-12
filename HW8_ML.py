@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-#
+##
 # Activation function (sigmoid)
 def g(z):
     return 1 / (1 + np.exp(-z))
