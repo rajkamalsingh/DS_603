@@ -12,7 +12,7 @@ X = data.iloc[:, 2:9].values  # Extract columns 3 to 9
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 X_tensor = torch.tensor(X_scaled, dtype=torch.float32)
-
+#
 # Define the Autoencoder class
 class Autoencoder(nn.Module):
     def __init__(self, input_dim, code_dim, nonlinear=False):
