@@ -4,55 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a39c63a-6538-4dde-821b-ee5a0d766113" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutoEncoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoEncoder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Decision_tree_part1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decision_tree_part1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW11_ML.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW11_ML.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW_6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW_6_q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW_6_q2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MDS(Graham Matrix).py" beforeDir="false" afterPath="$PROJECT_DIR$/MDS(Graham Matrix).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PCA.py" beforeDir="false" afterPath="$PROJECT_DIR$/PCA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project2.py" afterDir="false" />
+    <list default="true" id="5d8afd38-06bf-4012-a264-376a39a7a346" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HW9_ML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rajkamalsingh"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rajkamalsingh/DS_603",
-    "accountId": "d723c52f-68c7-49e7-a99f-4f79f99b909e"
-  }
-}]]></component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2o5crKexv2e6KZ0D0rQM2uIMZTv" />
+  <component name="ProjectId" id="2pJq6BbxUpaVwDO8jA3jfdReuTJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -60,17 +34,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.Decision_tree_part1.executor": "Run",
-    "Python.HW11_ML.executor": "Run",
-    "Python.HW_6.executor": "Run",
-    "Python.HW_6_q2.executor": "Run",
-    "Python.MDS(Graham Matrix).executor": "Run",
-    "Python.PCA.executor": "Run",
-    "Python.Project1.executor": "Run",
-    "Python.Project2.executor": "Run",
+    "Python.HW_10.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "final__project",
-    "last_opened_file_path": "C:/Users/DELL/PycharmProjects/DATA_603_ML"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/DELL/PycharmProjects/HW9_ML"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -83,11 +50,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9a39c63a-6538-4dde-821b-ee5a0d766113" name="Changes" comment="" />
-      <created>1730163078104</created>
+      <changelist id="5d8afd38-06bf-4012-a264-376a39a7a346" name="Changes" comment="" />
+      <created>1732494350095</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730163078104</updated>
+      <updated>1732494350095</updated>
     </task>
     <servers />
   </component>
